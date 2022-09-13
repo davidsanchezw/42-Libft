@@ -6,11 +6,11 @@
 /*   By: dasanch2 <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/12 16:32:25 by dasanch2          #+#    #+#             */
-/*   Updated: 2022/09/12 16:33:17 by dasanch2         ###   ########.fr       */
+/*   Updated: 2022/09/13 19:02:05 by dasanch2         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-int ft_isascii(int val)
+int	ft_isascii(int val)
 {
 	int	i;
 
